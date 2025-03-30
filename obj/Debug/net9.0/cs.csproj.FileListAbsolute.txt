@@ -1,0 +1,14 @@
+/Users/milanpoudel/Desktop/cs/bin/Debug/net9.0/cs
+/Users/milanpoudel/Desktop/cs/bin/Debug/net9.0/cs.deps.json
+/Users/milanpoudel/Desktop/cs/bin/Debug/net9.0/cs.runtimeconfig.json
+/Users/milanpoudel/Desktop/cs/bin/Debug/net9.0/cs.dll
+/Users/milanpoudel/Desktop/cs/bin/Debug/net9.0/cs.pdb
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.AssemblyInfoInputs.cache
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.AssemblyInfo.cs
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.csproj.CoreCompileInputs.cache
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.dll
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/refint/cs.dll
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.pdb
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.genruntimeconfig.cache
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/ref/cs.dll
