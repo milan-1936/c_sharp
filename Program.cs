@@ -9,3 +9,4 @@ class Jadu{
         Console.WriteLine(builder);
     }
 }
+
