@@ -1,0 +1,8 @@
+Other framework
+    a. Universal windows platform(wmp)
+        -> it is one of many ways to create applications for windows
+        -> it is used for writing windows 10 store apps and for targeting winows 10 devices (mobile, Xbox)
+    b.  .NET core with ASP.NET core
+        -> ASP.NET core is cross platform, high-performance, open-source fromework for building modern cloud-enabled, Internet-connected apps.
+    c. Xamarin
+        -> is an open-source platform for building modern and performant applications for iOS, Android and Windows with .NET

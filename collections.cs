@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 
 class Program{
+    // this is non-genric collection which means we can add any data type into Hastable
     static void Main(){
         Hashtable Students = new Hashtable();
         Students.Add(101, "Sabin");
