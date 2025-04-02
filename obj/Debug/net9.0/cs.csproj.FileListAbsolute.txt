@@ -12,3 +12,4 @@
 /Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.pdb
 /Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.genruntimeconfig.cache
 /Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/ref/cs.dll
+/Users/milanpoudel/Desktop/cs/obj/Debug/net9.0/cs.sourcelink.json
