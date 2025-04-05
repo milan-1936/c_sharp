@@ -9,7 +9,7 @@ class NonGenericCollection{
         numbers.Add(20);
 
         foreach(int num in numbers){
-            Console.WriteLine("Number"+ num);
+            Console.WriteLine("Number: "+ num);
         }
     }
 }
