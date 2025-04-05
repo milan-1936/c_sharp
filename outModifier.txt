@@ -1,0 +1,13 @@
+🔍 What is the out modifier in C#?
+
+The out modifier is used in method parameters to allow a method to return multiple values. It's a way to pass variables by reference, and the method is required to assign a value to them before it returns.
+📘 Definition:
+
+    out is a parameter modifier in C# that allows a method to output data through its parameters.
+
+✅ Key Characteristics of out:
+Feature	Description
+Direction	Data flows from method to caller.
+Must Assign	The called method must assign a value to the out parameter before returning.
+Multiple Returns	Allows a method to return more than one value.
+No Need to Initialize	The caller does not need to initialize the variable before passing it.
