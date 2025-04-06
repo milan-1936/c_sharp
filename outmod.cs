@@ -19,7 +19,5 @@ class OutModifier{
         Console.WriteLine("b = " + b); 
         a++;
         b++;
-       
-        
     }
 }
